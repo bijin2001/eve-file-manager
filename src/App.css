@@ -1,0 +1,33 @@
+*{
+  border: 0;
+  margin: 0;
+  background-color: #0c111b;
+  font-family: "Rubik", sans-serif;
+  
+}
+
+.fbns:hover{
+
+background-color: #3838f03e;
+transition: ease-in 0.2s;
+}
+
+.fb1ns:hover{
+
+  background-color: rgb(11 11 61) !important;
+  transition: ease-in 0.2s;
+  border-radius: 10px !important;
+  
+
+
+}
+
+  .borderless tr,
+  .borderless td,
+  .borderless th
+
+ {
+  border: none !important;
+}
+
+
